@@ -1,0 +1,7 @@
+*.o
+cconfig.h
+*.elf
+build
+*.pyc
+*.so
+.sconsign.dblite
